@@ -1,0 +1,22 @@
+{
+  "name": "ideaapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cheetah2107/IdeaApp.git"
+  },
+  "author": "Chethan Pai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cheetah2107/IdeaApp/issues"
+  },
+  "homepage": "https://github.com/Cheetah2107/IdeaApp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
